@@ -1,0 +1,10 @@
+E:\编程\C#程序\Windows-作业1-输入两个数字计算乘积\Windows-作业1-输入两个数字计算乘积\bin\Debug\Windows-作业1-输入两个数字计算乘积.exe.config
+E:\编程\C#程序\Windows-作业1-输入两个数字计算乘积\Windows-作业1-输入两个数字计算乘积\bin\Debug\Windows-作业1-输入两个数字计算乘积.exe
+E:\编程\C#程序\Windows-作业1-输入两个数字计算乘积\Windows-作业1-输入两个数字计算乘积\bin\Debug\Windows-作业1-输入两个数字计算乘积.pdb
+E:\编程\C#程序\Windows-作业1-输入两个数字计算乘积\Windows-作业1-输入两个数字计算乘积\obj\Debug\Windows-作业1-输入两个数字计算乘积.csprojAssemblyReference.cache
+E:\编程\C#程序\Windows-作业1-输入两个数字计算乘积\Windows-作业1-输入两个数字计算乘积\obj\Debug\Windows_作业1_输入两个数字计算乘积.Form1.resources
+E:\编程\C#程序\Windows-作业1-输入两个数字计算乘积\Windows-作业1-输入两个数字计算乘积\obj\Debug\Windows_作业1_输入两个数字计算乘积.Properties.Resources.resources
+E:\编程\C#程序\Windows-作业1-输入两个数字计算乘积\Windows-作业1-输入两个数字计算乘积\obj\Debug\Windows-作业1-输入两个数字计算乘积.csproj.GenerateResource.cache
+E:\编程\C#程序\Windows-作业1-输入两个数字计算乘积\Windows-作业1-输入两个数字计算乘积\obj\Debug\Windows-作业1-输入两个数字计算乘积.csproj.CoreCompileInputs.cache
+E:\编程\C#程序\Windows-作业1-输入两个数字计算乘积\Windows-作业1-输入两个数字计算乘积\obj\Debug\Windows-作业1-输入两个数字计算乘积.exe
+E:\编程\C#程序\Windows-作业1-输入两个数字计算乘积\Windows-作业1-输入两个数字计算乘积\obj\Debug\Windows-作业1-输入两个数字计算乘积.pdb
