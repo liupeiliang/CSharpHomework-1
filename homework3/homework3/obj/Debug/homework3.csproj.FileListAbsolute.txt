@@ -1,7 +1,0 @@
-E:\编程\C#程序\homework3\homework3\bin\Debug\homework3.exe.config
-E:\编程\C#程序\homework3\homework3\bin\Debug\homework3.exe
-E:\编程\C#程序\homework3\homework3\bin\Debug\homework3.pdb
-E:\编程\C#程序\homework3\homework3\obj\Debug\homework3.csprojAssemblyReference.cache
-E:\编程\C#程序\homework3\homework3\obj\Debug\homework3.csproj.CoreCompileInputs.cache
-E:\编程\C#程序\homework3\homework3\obj\Debug\homework3.exe
-E:\编程\C#程序\homework3\homework3\obj\Debug\homework3.pdb
