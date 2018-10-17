@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "homework5", "homework5\homework5.csproj", "{B515B1EC-DC64-4503-9F60-6AC3F2A52622}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CayleyTree", "homework5_2\CayleyTree\CayleyTree.csproj", "{4E066C3B-A467-46D1-9A6E-0EF515CFA58F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B515B1EC-DC64-4503-9F60-6AC3F2A52622}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B515B1EC-DC64-4503-9F60-6AC3F2A52622}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B515B1EC-DC64-4503-9F60-6AC3F2A52622}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B515B1EC-DC64-4503-9F60-6AC3F2A52622}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E066C3B-A467-46D1-9A6E-0EF515CFA58F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E066C3B-A467-46D1-9A6E-0EF515CFA58F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E066C3B-A467-46D1-9A6E-0EF515CFA58F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E066C3B-A467-46D1-9A6E-0EF515CFA58F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D24FDDC2-942B-44C0-AFF7-59044F597D31}
+	EndGlobalSection
+EndGlobal
