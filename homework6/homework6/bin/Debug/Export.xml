@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<ArrayOfOrder xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Order>
+    <client>战三</client>
+    <name>鸡蛋</name>
+    <id>1</id>
+    <price>2000</price>
+  </Order>
+  <Order>
+    <client>李四</client>
+    <name>牛奶</name>
+    <id>2</id>
+    <price>330</price>
+  </Order>
+</ArrayOfOrder>
