@@ -1,0 +1,13 @@
+D:\编程\C#程序\homework7\homework6\bin\Debug\homework6.exe.config
+D:\编程\C#程序\homework7\homework6\bin\Debug\homework6.exe
+D:\编程\C#程序\homework7\homework6\bin\Debug\homework6.pdb
+D:\编程\C#程序\homework7\homework6\obj\Debug\homework7_2.csproj.CoreCompileInputs.cache
+D:\编程\C#程序\homework7\homework6\obj\Debug\homework6.exe
+D:\编程\C#程序\homework7\homework6\obj\Debug\homework6.pdb
+D:\编程\C#程序\homework8\homework6\bin\Debug\homework6.exe.config
+D:\编程\C#程序\homework8\homework6\bin\Debug\homework6.exe
+D:\编程\C#程序\homework8\homework6\bin\Debug\homework6.pdb
+D:\编程\C#程序\homework8\homework6\obj\Debug\homework7_2.csprojAssemblyReference.cache
+D:\编程\C#程序\homework8\homework6\obj\Debug\homework7_2.csproj.CoreCompileInputs.cache
+D:\编程\C#程序\homework8\homework6\obj\Debug\homework6.exe
+D:\编程\C#程序\homework8\homework6\obj\Debug\homework6.pdb
