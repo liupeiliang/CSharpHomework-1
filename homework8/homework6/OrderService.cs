@@ -120,7 +120,7 @@ namespace homework6
             nav.MoveToRoot();
 
             XslCompiledTransform xt = new XslCompiledTransform();
-            xt.Load(@"Export.xslt");
+            xt.Load(@"../../Export.xslt");
 
             FileStream outFileStream = File.OpenWrite(@"Export.html");
             XmlTextWriter writer =
