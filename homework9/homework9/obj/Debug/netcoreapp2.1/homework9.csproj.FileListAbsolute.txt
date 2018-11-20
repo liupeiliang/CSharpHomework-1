@@ -1,0 +1,11 @@
+D:\编程\C#程序\homework9\homework9\bin\Debug\netcoreapp2.1\homework9.deps.json
+D:\编程\C#程序\homework9\homework9\bin\Debug\netcoreapp2.1\homework9.runtimeconfig.json
+D:\编程\C#程序\homework9\homework9\bin\Debug\netcoreapp2.1\homework9.runtimeconfig.dev.json
+D:\编程\C#程序\homework9\homework9\bin\Debug\netcoreapp2.1\homework9.dll
+D:\编程\C#程序\homework9\homework9\bin\Debug\netcoreapp2.1\homework9.pdb
+D:\编程\C#程序\homework9\homework9\obj\Debug\netcoreapp2.1\homework9.csprojAssemblyReference.cache
+D:\编程\C#程序\homework9\homework9\obj\Debug\netcoreapp2.1\homework9.csproj.CoreCompileInputs.cache
+D:\编程\C#程序\homework9\homework9\obj\Debug\netcoreapp2.1\homework9.AssemblyInfoInputs.cache
+D:\编程\C#程序\homework9\homework9\obj\Debug\netcoreapp2.1\homework9.AssemblyInfo.cs
+D:\编程\C#程序\homework9\homework9\obj\Debug\netcoreapp2.1\homework9.dll
+D:\编程\C#程序\homework9\homework9\obj\Debug\netcoreapp2.1\homework9.pdb
