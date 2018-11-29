@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<ArrayOfOrder xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Order>
+    <client>15809241970</client>
+    <name>12222</name>
+    <id>20170531123</id>
+    <price>0</price>
+  </Order>
+</ArrayOfOrder>
